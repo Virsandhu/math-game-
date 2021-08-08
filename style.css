@@ -1,0 +1,27 @@
+body {
+    background-image: url("backg_img.png");
+    text-align: center;
+    background-size:1400px;
+    
+}
+
+#player{
+    height: fit-content; 
+    width: 450px;
+    border-color: rgb(255, 0, 0);
+    border-style: outset;
+}
+#main_div{
+    width: fit-content;
+    
+}
+.container{
+    background-color:lightcoral;
+    font-weight: 300;
+}
+
+#player_1 , #player_2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
